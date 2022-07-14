@@ -1,0 +1,4 @@
+C:\Users\USER\Downloads\game_c\src_180118a\제2부 Text Graphic 프로그래밍\Quest10.석고반\VS2017\Debug\Mytest.exe
+D:\Game\석고반\VS2017\Debug\Mytest.exe
+C:\Users\USER\OneDrive\문서\Game\석고반\VS2017\Debug\Mytest.exe
+C:\Users\USER\OneDrive\문서\Game\석고반\Source_Code\Debug\Mytest.exe
